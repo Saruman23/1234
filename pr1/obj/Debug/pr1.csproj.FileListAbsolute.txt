@@ -1,0 +1,87 @@
+D:\project\pr1\pr1\bin\Debug\Database1.mdf
+D:\project\pr1\pr1\bin\Debug\Database1_log.ldf
+D:\project\pr1\pr1\bin\Debug\pr1.exe.config
+D:\project\pr1\pr1\bin\Debug\pr1.exe
+D:\project\pr1\pr1\bin\Debug\pr1.pdb
+D:\project\pr1\pr1\obj\Debug\pr1.csproj.AssemblyReference.cache
+D:\project\pr1\pr1\obj\Debug\pr1.csproj.SuggestedBindingRedirects.cache
+D:\project\pr1\pr1\obj\Debug\pr1.Form1.resources
+D:\project\pr1\pr1\obj\Debug\pr1.Properties.Resources.resources
+D:\project\pr1\pr1\obj\Debug\pr1.csproj.GenerateResource.cache
+D:\project\pr1\pr1\obj\Debug\pr1.csproj.CoreCompileInputs.cache
+D:\project\pr1\pr1\obj\Debug\pr1.exe
+D:\project\pr1\pr1\obj\Debug\pr1.pdb
+D:\project\pr1\pr1\obj\Debug\pr1.Edit.resources
+D:\project\pr1\pr1\obj\Debug\pr1.Addworker.resources
+D:\project\pr1\pr1\obj\Debug\pr1.Addworker2.resources
+D:\project\pr1\pr1\obj\Debug\pr1.Search.resources
+D:\pr1\pr1\bin\Debug\Database1.mdf
+D:\pr1\pr1\bin\Debug\Database1_log.ldf
+D:\pr1\pr1\bin\Debug\pr1.exe.config
+D:\pr1\pr1\bin\Debug\pr1.exe
+D:\pr1\pr1\bin\Debug\pr1.pdb
+D:\pr1\pr1\obj\Debug\pr1.csproj.AssemblyReference.cache
+D:\pr1\pr1\obj\Debug\pr1.csproj.SuggestedBindingRedirects.cache
+D:\pr1\pr1\obj\Debug\pr1.Addworker.resources
+D:\pr1\pr1\obj\Debug\pr1.Addworker2.resources
+D:\pr1\pr1\obj\Debug\pr1.Edit.resources
+D:\pr1\pr1\obj\Debug\pr1.Form1.resources
+D:\pr1\pr1\obj\Debug\pr1.Properties.Resources.resources
+D:\pr1\pr1\obj\Debug\pr1.Search.resources
+D:\pr1\pr1\obj\Debug\pr1.csproj.GenerateResource.cache
+D:\pr1\pr1\obj\Debug\pr1.csproj.CoreCompileInputs.cache
+D:\pr1\pr1\obj\Debug\pr1.exe
+D:\pr1\pr1\obj\Debug\pr1.pdb
+E:\pr1\pr1\bin\Debug\Database1.mdf
+E:\pr1\pr1\bin\Debug\Database1_log.ldf
+E:\pr1\pr1\bin\Debug\pr1.exe.config
+E:\pr1\pr1\bin\Debug\pr1.exe
+E:\pr1\pr1\bin\Debug\pr1.pdb
+E:\pr1\pr1\obj\Debug\pr1.csproj.AssemblyReference.cache
+E:\pr1\pr1\obj\Debug\pr1.csproj.SuggestedBindingRedirects.cache
+E:\pr1\pr1\obj\Debug\pr1.Addworker.resources
+E:\pr1\pr1\obj\Debug\pr1.Addworker2.resources
+E:\pr1\pr1\obj\Debug\pr1.Edit.resources
+E:\pr1\pr1\obj\Debug\pr1.Form1.resources
+E:\pr1\pr1\obj\Debug\pr1.Properties.Resources.resources
+E:\pr1\pr1\obj\Debug\pr1.Search.resources
+E:\pr1\pr1\obj\Debug\pr1.csproj.GenerateResource.cache
+E:\pr1\pr1\obj\Debug\pr1.csproj.CoreCompileInputs.cache
+E:\pr1\pr1\obj\Debug\pr1.exe
+E:\pr1\pr1\obj\Debug\pr1.pdb
+D:\pr1\bin\Debug\Database1.mdf
+D:\pr1\bin\Debug\Database1_log.ldf
+D:\pr1\bin\Debug\pr1.exe.config
+D:\pr1\bin\Debug\pr1.exe
+D:\pr1\bin\Debug\pr1.pdb
+D:\pr1\obj\Debug\pr1.csproj.AssemblyReference.cache
+D:\pr1\obj\Debug\pr1.csproj.SuggestedBindingRedirects.cache
+D:\pr1\obj\Debug\pr1.Addworker.resources
+D:\pr1\obj\Debug\pr1.Addworker2.resources
+D:\pr1\obj\Debug\pr1.Edit.resources
+D:\pr1\obj\Debug\pr1.Form1.resources
+D:\pr1\obj\Debug\pr1.Properties.Resources.resources
+D:\pr1\obj\Debug\pr1.Search.resources
+D:\pr1\obj\Debug\pr1.csproj.GenerateResource.cache
+D:\pr1\obj\Debug\pr1.csproj.CoreCompileInputs.cache
+D:\pr1\obj\Debug\pr1.exe
+D:\pr1\obj\Debug\pr1.pdb
+D:\Учеба\3 курс\проги\pr1\bin\Debug\Database1.mdf
+D:\Учеба\3 курс\проги\pr1\bin\Debug\Database1_log.ldf
+D:\Учеба\3 курс\проги\pr1\bin\Debug\pr1.exe.config
+D:\Учеба\3 курс\проги\pr1\bin\Debug\pr1.exe
+D:\Учеба\3 курс\проги\pr1\bin\Debug\pr1.pdb
+D:\Учеба\3 курс\проги\pr1\obj\Debug\pr1.csproj.AssemblyReference.cache
+D:\Учеба\3 курс\проги\pr1\obj\Debug\pr1.Addworker.resources
+D:\Учеба\3 курс\проги\pr1\obj\Debug\pr1.Addworker2.resources
+D:\Учеба\3 курс\проги\pr1\obj\Debug\pr1.Edit.resources
+D:\Учеба\3 курс\проги\pr1\obj\Debug\pr1.Form1.resources
+D:\Учеба\3 курс\проги\pr1\obj\Debug\pr1.Properties.Resources.resources
+D:\Учеба\3 курс\проги\pr1\obj\Debug\pr1.Search.resources
+D:\Учеба\3 курс\проги\pr1\obj\Debug\pr1.csproj.GenerateResource.cache
+D:\Учеба\3 курс\проги\pr1\obj\Debug\pr1.csproj.CoreCompileInputs.cache
+D:\Учеба\3 курс\проги\pr1\obj\Debug\pr1.exe
+D:\Учеба\3 курс\проги\pr1\obj\Debug\pr1.pdb
+D:\Учеба\3 курс\проги\pr1\obj\Debug\pr1.Test.resources
+D:\Учеба\3 курс\проги\pr1\obj\Debug\pr1.Results.resources
+D:\Учеба\3 курс\проги\pr1\obj\Debug\pr1.Authorization.resources
